@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/StarWarsReactjs/static/css/main.d25ea2a1.chunk.css",
+    "main.js": "/StarWarsReactjs/static/js/main.cca2efc6.chunk.js",
+    "main.js.map": "/StarWarsReactjs/static/js/main.cca2efc6.chunk.js.map",
+    "runtime-main.js": "/StarWarsReactjs/static/js/runtime-main.d0ea7821.js",
+    "runtime-main.js.map": "/StarWarsReactjs/static/js/runtime-main.d0ea7821.js.map",
+    "static/js/2.d48359a8.chunk.js": "/StarWarsReactjs/static/js/2.d48359a8.chunk.js",
+    "static/js/2.d48359a8.chunk.js.map": "/StarWarsReactjs/static/js/2.d48359a8.chunk.js.map",
+    "index.html": "/StarWarsReactjs/index.html",
+    "static/css/main.d25ea2a1.chunk.css.map": "/StarWarsReactjs/static/css/main.d25ea2a1.chunk.css.map",
+    "static/js/2.d48359a8.chunk.js.LICENSE.txt": "/StarWarsReactjs/static/js/2.d48359a8.chunk.js.LICENSE.txt",
+    "static/media/Darth.a3f1426c.jpg": "/StarWarsReactjs/static/media/Darth.a3f1426c.jpg",
+    "static/media/adam.221cb5b7.jpg": "/StarWarsReactjs/static/media/adam.221cb5b7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0ea7821.js",
+    "static/js/2.d48359a8.chunk.js",
+    "static/css/main.d25ea2a1.chunk.css",
+    "static/js/main.cca2efc6.chunk.js"
+  ]
+}
