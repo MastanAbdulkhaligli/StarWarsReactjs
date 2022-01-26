@@ -1,0 +1,13 @@
+.home {
+  min-height: 100vh;
+  background-color: rgb(6, 6, 95);
+  color: white;
+  font-size: 22px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+li {
+  list-style-type: none;
+}
